@@ -1,0 +1,20 @@
+body{
+    color: greenyellow;
+    background: cadetblue;
+}
+
+.heading{
+    width: 80%;
+    font-size: 35px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: crimson;
+    font-size: 30px;
+}
+
+#camera{
+    border: 4px dashed blanchedalmond;
+    width: 350px;
+    height: 300px;
+}
